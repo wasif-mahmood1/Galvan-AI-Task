@@ -12,7 +12,7 @@ This project is a full-stack web application for **user management and authentic
 
 This system is designed for educational purposes and can be extended for production-ready applications.
 
-**Demo Video:** [Watch Project Demo](https://youtu.be/R5MH-NhUzEI)
+**Demo Video:** [Watch Project Demo](https://drive.google.com/drive/folders/1gq7-HOBtxnhLmsFsCbIKwmfQjHMxv53x?usp=sharing)
 
 ---
 
